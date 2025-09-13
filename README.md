@@ -8,8 +8,7 @@ The study shows how **initial mesh resolution**, **marking fraction (θ)**, and 
 ---
 
 ## 📁 Contents
-- **Code.ipynb** — Jupyter/Colab notebook with the full adaptive pipeline and plots  
-- **1.png**, **2.png** — Example figures (mesh/solution/error/convergence)  
+- **Code.ipynb** — Jupyter/Colab notebook with the full adaptive pipeline and plots    
 - **AMR_Report.pdf** — short write-up with background and results
 
 ---
@@ -63,5 +62,5 @@ Includes:
 2. Run all cells — you’ll see the mesh, solution, error heatmaps, and convergence plots.
 
 ## 📬 Contact
-Created by **Sourabh More**.  
+Created by [Sourabh More](https://www.linkedin.com/in/sourabhmore).  
 Feel free to connect or reach out with questions or collaboration ideas!
