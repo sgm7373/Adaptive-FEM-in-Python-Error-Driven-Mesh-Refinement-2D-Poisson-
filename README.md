@@ -40,11 +40,18 @@ Includes:
 ---
 
 ## 🧪 Method (short)
-1. **Problem**  
-   \[
-   -\Delta u = f(x,y)\ \text{ in } (0,1)^2,\quad u=0\ \text{ on } \partial\Omega,
-   \]
-   with \( f(x,y)=10\sin(\pi x)\sin(\pi y) \).
+1. **Problem**
+
+$$
+-\Delta u = f(x,y)\quad \text{in } (0,1)^2,\qquad
+u=0 \ \text{ on } \partial\Omega.
+$$
+
+with
+
+$$
+f(x,y)=10\sin(\pi x)\sin(\pi y).
+$$
 
 2. **Discretize** — uniform grid split into triangles (P1 basis).  
 3. **Assemble** — element \(K_e = |T|\,(B^\top B)\) and centroid load → scatter into global **sparse CSR** matrix \(K\).  
