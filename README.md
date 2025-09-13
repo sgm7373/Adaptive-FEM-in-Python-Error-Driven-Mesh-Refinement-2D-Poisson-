@@ -65,7 +65,7 @@ Includes:
 
 ## 📬 Contact
 Created by **Sourabh More**.  
-Questions, ideas, or collaboration? **Open an issue** or **reach out**!
+Feel free to connect or reach out with questions or collaboration ideas!
 
 
 
