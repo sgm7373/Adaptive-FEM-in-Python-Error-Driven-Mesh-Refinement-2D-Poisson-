@@ -63,5 +63,9 @@ Includes:
 1. Open **Code.ipynb** (works in Jupyter or Google Colab).  
 2. Run all cells — you’ll see the mesh, solution, error heatmaps, and convergence plots.
 
+## 📬 Contact
+Created by **Sourabh More**.  
+Questions, ideas, or collaboration? **Open an issue** or **reach out**!
+
 
 
